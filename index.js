@@ -3,6 +3,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 
+//Examples are below, please delete unless you create the files "index.html" and "error.html"
 createWebPageFor('/', '/index.html');
 sendErrorFile('/error.html');
 
