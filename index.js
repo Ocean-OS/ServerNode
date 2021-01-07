@@ -1,4 +1,4 @@
-//ServerNode v. 1.0.0
+//ServerNode v. 1.0.1 BETA
 const express = require('express')
 const app = express()
 const port = 3000
