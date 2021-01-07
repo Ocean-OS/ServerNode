@@ -13,3 +13,7 @@ This will create a homepage for the website that references the HTML index.html 
  var d = new Date();
  createWebPageFor('/' + d.getTime(), '/expire.html');
  ```
+To run your new server in NPM, use:
+```
+npm run index.js
+```
