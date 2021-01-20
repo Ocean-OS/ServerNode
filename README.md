@@ -18,3 +18,4 @@ To run your new server in NPM, use:
 npm run index.js
 ```
 [Clone this repo on repl](https://repl.it/github/DREWNOLT/ServerNode)
+[Download](https://github.com/DREWNOLT/ServerNode/archive/main.zip)
